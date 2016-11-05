@@ -1,14 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "driver.c"
-
+#include <string.h>
+#include "driver.h"
 
 int main()
 {
 
-    while((menu())!=5)
-        process();
-
-
+    while(1)
+    {	
+    	menu();
+	    process();
+	}
     return 0;
 }
