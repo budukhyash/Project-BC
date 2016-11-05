@@ -3,8 +3,10 @@
 #include <string.h>
 #include "driver.h"
 
+<<<<<<< HEAD
 //comment lol -_- asdf
-
+=======
+>>>>>>> master
 
 int main()
 {
