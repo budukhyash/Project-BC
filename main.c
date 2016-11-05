@@ -8,8 +8,8 @@ int main()
 
     while(1)
     {	
-    	menu();
-	    process();
-	}
+	menu();
+        process();
+    }
     return 0;
 }
